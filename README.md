@@ -29,6 +29,29 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 
 ## Laravel Sponsors
 
+
+Modules of project
+1.Login and Registration
+2.Home design like E-commerce website
+3.product search
+4.Add to cart
+5.user order placement
+6.order details
+7.order History
+8.user profile
+9.style with Bootstrap
+
+Laravel E-commerce project setup: version laravel 8
+1.Install composer 
+2.Install laravel installer
+3.install project [write command box :Composer create project --prefer-dist laravel/laravel E-commerce] then when 
+sho the successfully then write command box: $ cd laravel E-commerce when show succesfully then write $php artisan
+serve for localhost & code will be run sublime text.
+4.Make master page
+5.Make login page
+6.Add Bootstrap
+7.Add JQuery
+
 We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
 ### Premium Partners
